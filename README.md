@@ -7,6 +7,23 @@ A collection of Python scripts that generate mathematical problems with varying 
 1. Investment Math Problem Generator (`math_problem_generator.py`)
 2. Physics Problem Generator (`physics_problem_generator.py`)
 
+ ## 🎥 Watch How It's Built!
+
+**[Watch the complete build process on Patreon](https://www.patreon.com/posts/how-to-build-and-120084275)** - This tutorial is part of the comprehensive 1000x Cursor Course!
+
+See exactly how the files in this tutorial was created step by step, with detailed explanations and insights into the development process. Learn advanced techniques for building AI applications while mastering the Cursor Code Editor.
+
+## ❤️ Support & Get 400+ AI Projects
+
+This is one of 400+ fascinating projects in my collection! [Support me on Patreon](https://www.patreon.com/c/echohive42/membership) to get:
+
+- 🎯 Access to 400+ AI projects (and growing daily!)
+- 📥 Full source code & detailed explanations
+- 📚 1000x Cursor Course (32 chapters, 21+ hours of comprehensive content for mastering the Cursor Code Editor)
+- 🎓 Live coding sessions & AMAs
+- 💬 1-on-1 consultations (higher tiers)
+- 🎁 Exclusive discounts on AI tools & platforms (up to $180 value)
+
 ## Features
 
 - Three complexity levels for each generator
