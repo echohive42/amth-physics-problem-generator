@@ -1,6 +1,6 @@
 # Math Problem Generators
 
-A collection of Python scripts that generate mathematical problems with varying complexity levels. These tools are designed to create problems that can be used to test the accuracy of large language models or for educational purposes.
+A collection of Python scripts that generate mathematical problems with varying complexity levels. These tools are designed to create problems that can be used to test the accuracy of large language models or for educational and inspiration purposes.
 
 ## Available Generators
 
